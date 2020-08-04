@@ -2,7 +2,7 @@
 
 Привет дружище! Это визитная карточка YouTube канала по программировании [SweetCoder](https://www.youtube.com/c/SweetCoder?sub_confirmation=1)
 
-```Python
+```python
 
 class SweetCoder(Developer, Biker, BeerLover):
   """ One of the best YouTube channels for developers ... ish"""
