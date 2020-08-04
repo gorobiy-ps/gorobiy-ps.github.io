@@ -1,6 +1,4 @@
-# [**Sweet Coder**](https://www.youtube.com/c/SweetCoder?sub_confirmation=1)
-
-### Привет дружище! Это сайт YouTube канала [SweetCoder](https://www.youtube.com/c/SweetCoder?sub_confirmation=1)
+# **Pavlo Gorobiy**
 
 ```python
 
@@ -13,4 +11,3 @@ class SweetCoder(Developer, Biker, BeerLover):
 
 ```
 
-#### Присоединяйся! Будет прикольно!
