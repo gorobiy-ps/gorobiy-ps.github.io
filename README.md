@@ -1,6 +1,6 @@
 # [**Sweet Coder**](https://www.youtube.com/c/SweetCoder?sub_confirmation=1)
 
-### Привет дружище! Это сайт YouTube канала о программировании [SweetCoder](https://www.youtube.com/c/SweetCoder?sub_confirmation=1)
+### Привет дружище! Это сайт YouTube канала [SweetCoder](https://www.youtube.com/c/SweetCoder?sub_confirmation=1)
 
 ```python
 
@@ -12,3 +12,5 @@ class SweetCoder(Developer, Biker, BeerLover):
         self.JOY = super().code() + super().ride() + super().drink_beer()
 
 ```
+
+ #### Присоединяйся. Будет не скучно!
