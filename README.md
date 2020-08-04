@@ -1,6 +1,6 @@
-# **Sweet Coder**
+# [**Sweet Coder**](https://www.youtube.com/c/SweetCoder?sub_confirmation=1)
 
-### Привет дружище! Это сайт-визитка YouTube канала о программировании [SweetCoder](https://www.youtube.com/c/SweetCoder?sub_confirmation=1)
+### Привет дружище! Это сайт YouTube канала о программировании [SweetCoder](https://www.youtube.com/c/SweetCoder?sub_confirmation=1)
 
 ```python
 
