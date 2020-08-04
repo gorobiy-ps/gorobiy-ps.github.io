@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Sweet Coder
 
 You can use the [editor on GitHub](https://github.com/gorobiy-ps/gorobiy-ps.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
