@@ -2,12 +2,15 @@
 
 ```python
 
-class SweetCoder(Developer, Biker, BeerLover):
-  """ One of the best YouTube channels for developers ... ish"""
+class I_Love_Coding(LifeStyle):
+  """ very briefly about me"""
 
     def __init__(self):
-        self.CREED = 'write code or die trying'
-        self.JOY = super().code() + super().ride() + super().drink_beer()
+        self.are_you_sure = 'YES'
+
+    def do(self):
+        self.code()
+        self.rest()
+        self.repeat()
 
 ```
-
